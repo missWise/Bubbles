@@ -1,0 +1,9 @@
+D:\Programming\Apriorit\Bubbles\Bubbles\bin\Debug\Bubbles.exe.config
+D:\Programming\Apriorit\Bubbles\Bubbles\obj\Debug\Bubbles.csprojResolveAssemblyReference.cache
+D:\Programming\Apriorit\Bubbles\Bubbles\obj\Debug\Bubbles.Form1.resources
+D:\Programming\Apriorit\Bubbles\Bubbles\obj\Debug\Bubbles.Properties.Resources.resources
+D:\Programming\Apriorit\Bubbles\Bubbles\obj\Debug\Bubbles.csproj.GenerateResource.Cache
+D:\Programming\Apriorit\Bubbles\Bubbles\bin\Debug\Bubbles.exe
+D:\Programming\Apriorit\Bubbles\Bubbles\bin\Debug\Bubbles.pdb
+D:\Programming\Apriorit\Bubbles\Bubbles\obj\Debug\Bubbles.exe
+D:\Programming\Apriorit\Bubbles\Bubbles\obj\Debug\Bubbles.pdb

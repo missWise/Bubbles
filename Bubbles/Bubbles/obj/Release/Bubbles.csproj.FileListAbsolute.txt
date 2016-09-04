@@ -1,0 +1,8 @@
+D:\Programming\Apriorit\Bubbles\Bubbles\bin\Release\Bubbles.exe.config
+D:\Programming\Apriorit\Bubbles\Bubbles\bin\Release\Bubbles.exe
+D:\Programming\Apriorit\Bubbles\Bubbles\bin\Release\Bubbles.pdb
+D:\Programming\Apriorit\Bubbles\Bubbles\obj\Release\Bubbles.Form1.resources
+D:\Programming\Apriorit\Bubbles\Bubbles\obj\Release\Bubbles.Properties.Resources.resources
+D:\Programming\Apriorit\Bubbles\Bubbles\obj\Release\Bubbles.csproj.GenerateResource.Cache
+D:\Programming\Apriorit\Bubbles\Bubbles\obj\Release\Bubbles.exe
+D:\Programming\Apriorit\Bubbles\Bubbles\obj\Release\Bubbles.pdb
